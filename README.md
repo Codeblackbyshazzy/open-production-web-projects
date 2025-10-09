@@ -167,6 +167,7 @@ engine
 - [Analytics Box](https://github.com/KetanIP/analytics) - analytics tool like google analytics but instead of ripping user's privacy off them like google it respects their privacy and doesn't collect any unnecessary information
 - [GrowthBook](https://github.com/growthbook/growthbook) - The Open Source A/B Testing Platform
 - [Open Replay](https://github.com/openreplay/openreplay) - developer-friendly, open-source session replay.
+- [Open Chat](https://github.com/danielgestwa/OpenChat) - Open Source chat with RSS feed.
 
 ## PHP
 
